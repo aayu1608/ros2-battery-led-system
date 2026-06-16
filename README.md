@@ -170,6 +170,10 @@ LED 1 turned OFF
 
 ![rqt_graph](assets/rqt_graph.png)
 
+## Development Environment
+
+This project was developed and tested on **Ubuntu running inside UTM on a MacBook**. ROS 2 packages were built using the Colcon build system and implemented in Python.
+
 ## Learning Outcomes
 
 This project helped me gain practical experience with:
