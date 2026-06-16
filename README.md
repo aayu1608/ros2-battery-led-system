@@ -164,13 +164,11 @@ LED 1 turned OFF
 
 ## Output Screenshot
 
-![Output]
-(assets/output_screenshot.png)
+![Output](assets/output_screenshot.png)
 
 ## rqt_graph
 
-![rqt_graph]
-(assets/rqt_graph.png)
+![rqt_graph](assets/rqt_graph.png)
 
 ## Learning Outcomes
 
